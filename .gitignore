@@ -1,0 +1,24 @@
+# 本地工具脚本
+同步到GitHub.bat
+*.bat
+
+# 编译产物
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+
+# Visual Studio 缓存
+.vs/
+x64/
+Debug/
+Release/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
